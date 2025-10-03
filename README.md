@@ -116,7 +116,8 @@ npm install
 
 Create a .env file in the root of your project and add your MongoDB connection string:
 
-MONGODB_URI=mongodb+srv://lexxley59_db_user:MZU1jN6rWGlUFfvl@cluster0.gu0ldrf.mongodb.net/plp_bookstore?retryWrites=true&w=majority
+MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.gu0ldrf.mongodb.net/plp_bookstore?retryWrites=true&w=majority
+
 
 
 
